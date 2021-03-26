@@ -1,3 +1,7 @@
+---
+typora-copy-images-to: ./
+---
+
 <h1>
     Recriando a tela de navegação do NETFLIX
 </h1>
@@ -13,8 +17,7 @@
 <p>
     O resultado foi esse:
 </p>
-
-![Tela Clone Netflix](F:\Rafa\Cursos\DIO\Netflix\Tela Clone Netflix.png)
+<img src="/img/Tela Clone Netflix.png">
 
 <hr>
 <footer>
